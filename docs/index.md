@@ -5,13 +5,13 @@ layout: home
 hero:
   name: "AH Statistics"
   text: "Infobase for Advanced Higher Statistics"
-  tagline: Course notes only.
+  tagline: "Course notes only"
   actions:
     - theme: brand
-      text: Statistical Tests
+      text: "Statistical"
       link: /tests
     - theme: alt
-      text: Other notes
+      text: "Other"
       link: /other
 
 features:
