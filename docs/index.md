@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "AH Statistics"
   text: "Infobase for Advanced Higher Statistics"
-  tagline: My great project tagline
+  tagline: Course notes only.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Statistical Tests
+      link: /tests
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Other notes
+      link: /other
 
 features:
   - title: Feature A
