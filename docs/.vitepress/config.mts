@@ -8,14 +8,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Course notes', link: '/test-notes' }
+      { text: 'Course notes', link: '/test-notes' },
+       { text: 'Useful links', link: '/useful-links' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Notes',
         items: [
-          { text: 'Test Notes', link: '/test-notes' },
+          { text: 'Statistical test notes', link: '/test-notes' },
           { text: 'Other notes', link: '/other-notes' }
         ]
       }

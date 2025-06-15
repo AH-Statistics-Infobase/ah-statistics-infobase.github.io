@@ -5,10 +5,10 @@ layout: home
 hero:
   name: "AH Statistics"
   text: "Infobase"
-  tagline: Course notes
+  tagline: Essential course notes for SQA's Advanced Higher Statistics course.
   actions:
     - theme: brand
-      text: Test Notes
+      text: Statistical test notes
       link: /test-notes
     - theme: alt
       text: Other Notes
@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: About
-    details: This website is an open project, with the goal of providing study notes for thoes studying SQA's Advanced Higher Statistics course. This website is completely free and open source. All files are avaliable on GitHub.
+    details: This website is an open project, with the goal of providing study notes for thoes studying SQA's Advanced Higher Statistics course. This website is maintained by a AH Statistics student, learning and publishing material as we go. One effective way of learning something is actualy to summarise and teach it to others. I can also get familliar with GitHub codebase for other projects and help fellow students.
   - title: Contact
-    details: Contact can be made via e-mail to the lead maintainer, keith@mckenzie.page. 
+    details: This website has two e-mail accounts. For general information and help with homework you can e-mail info@ahstatistics.com. To get in touch with the maintainer, e-mail thebigcheese@ahstatistics.com. We do not maintain any social media accounts at the current moment but may be open to in the near future.
   - title: Can I help?
-    details: Absolutely. All you need is a Github account. Click on the Github icon on this website, and fork the repository. After that, you will have your own version of the website. You can make changes, and make a pull request. If we like it, we will accept the changes.
+    details: Absolutely. All you need is a Github account. Click on the Github icon on this website, and fork the repository. After that, you will have your own version of the website. You can make changes, and make a pull request. If we like it, we will accept the changes. We work better together! Donations will be rejected because the costs of running this are pretty low. Our only cost is the annual cost of our domain name.
 ---
 
